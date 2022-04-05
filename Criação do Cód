@@ -1,0 +1,5 @@
+Começo criando a variável "viagem" dando comandos para perguntar a distância da viagem da pessoa.  
+
+seguindo vem as outras variáveis "s1" e "s2" que são as responsáveis por fazer os cálculos por Quilometragem de (* 0,50) e (* 0,45) as viagens com maior Quilometragem obviamente terão um desconto já feito no cálculo. 
+
+Assim que informado a quantidade de Km/h é exibido na tela uma mensagem confirmando essa Quilometragem e se a quantidade for maior que 200KM/h será cobrado um valor menor por conta do desconto, agora se for menor será feito o cálculo com o valor maior de 0,50 por quilometragem. 
